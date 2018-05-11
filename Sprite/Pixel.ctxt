@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=Pixel(java.lang.String)
+comment1.params=x\ y
+comment1.target=boolean\ getPixel(int,\ int)
+comment2.params=x\ y
+comment2.target=boolean\ advance(int,\ int)
+comment3.params=x\ y
+comment3.target=boolean\ advancealso(int,\ int)
+comment4.params=x\ y
+comment4.target=int\ test(int,\ int)
+numComments=5

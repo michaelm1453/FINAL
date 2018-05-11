@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=typeOfCharacter
+comment0.target=Frame(java.lang.String)
+comment1.params=
+comment1.target=void\ initFrame()
+comment10.params=increase
+comment10.target=int\ money_score(int)
+comment11.params=e
+comment11.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g\ talk
+comment3.target=void\ draw(java.awt.Graphics,\ boolean)
+comment4.params=g
+comment4.target=void\ choices(java.awt.Graphics)
+comment5.params=
+comment5.target=int\ getnpc1x()
+comment6.params=
+comment6.target=int\ getnpc1y()
+comment7.params=
+comment7.target=boolean\ isTalking()
+comment8.params=increase
+comment8.target=int\ love_score(int)
+comment9.params=increase
+comment9.target=int\ education_score(int)
+numComments=12

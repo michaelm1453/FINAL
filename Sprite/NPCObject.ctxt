@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x1\ x2\ y3\ y4
+comment0.target=NPCObject(int,\ int,\ int,\ int)
+comment0.text=\r\n\ This\ will\ be\ for\ objects\ that\ it\ shouldn't\ collide\ with\r\n
+comment1.params=sample\ x1\ y1
+comment1.target=NPCObject(javax.swing.ImageIcon,\ int,\ int)
+comment1.text=\ \r\n\ Ok\ so\ this\ is\ gonna\ be\ for\ like\ NPC\ characters\ that\ also\ need\ to\ move\r\n
+comment2.params=test
+comment2.target=boolean\ collide(Sprite)
+comment2.text=\r\n\ Tests\ to\ see\ if\ the\ sprite\ is\ within\ the\ boundaries\ (array)\r\n
+numComments=3
